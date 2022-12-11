@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
+<h1 align="center">Hi ✌️, I'm Jack</h1>
 <h3 align="center">A creative and driven full-stack developer living in Vancouver</h3>
 
 🛰 Reach me at **jackstasiulis@gmail.com**
