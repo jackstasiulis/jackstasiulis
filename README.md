@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A creative and driven full-stack developer living in Vancouver</h3>
 
-- 📫 How to reach me **jackstasiulis@gmail.com**
+🛰 Reach me at **jackstasiulis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
