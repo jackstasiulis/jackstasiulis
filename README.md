@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,react,mysql,sass,git,postman,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,nodejs,react,postgres,mysql,sass,tailwind,git,postman,figma&perline=5)](https://skillicons.dev)
 
 <h3 align="left">And of course:</h3>
 
