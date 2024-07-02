@@ -5,7 +5,7 @@
 
 🛸 Check out my portfolio website at **https://jackstasiulis.vercel.app/**
 
-🏎️ Here is my latest project: **https://racecarvenue.vercel.app/**
+🏎️ Here is my latest project: **https://vaille.ca/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
